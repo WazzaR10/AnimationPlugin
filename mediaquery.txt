@@ -1,0 +1,39 @@
+@media screen and (max-width: 992px) and (min-width: 620px) {
+    .freelancer-search-info{
+	width:96%
+	}
+}
+@media screen and (max-width: 619px) and (min-width: 495px) {
+    .freelancer-search-info{
+	width:95%
+	}
+}
+@media screen and (max-width: 495px) and (min-width: 475px) {
+    .freelancer-search-info{
+	width:94%
+	}
+}
+@media screen and (max-width: 475px) and (min-width: 405px) {
+    .freelancer-search-info{
+	width:93%
+	}
+}
+@media screen and (min-width: 404px) {
+    .freelancer-search-info{
+	width:92%
+	}
+}
+
+//
+@media screen and (max-width: 600px) and (min-width:412px)
+.allicons .netalents-icon {
+    margin: 5px 30px !important;
+}
+@media screen and (max-width: 412px) and (min-width:375px)
+.allicons .netalents-icon {
+    margin: 5px 15px !important;
+}
+@media screen and (min-width:375px)
+.allicons .netalents-icon {
+    margin: 5px 5px !important;
+}
